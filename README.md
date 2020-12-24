@@ -16,9 +16,13 @@
 ## 安裝
 1. 開啟終端機 (Terminal) 並前往安裝路徑的資料夾內輸入指令
     ```
-    git clone https://github.com/windsailg/ac_restaurant_list.git
+    git clone https://github.com/JIN-SKILL/Movie_List2.git
     ```
-2. 安裝所需套件
+2. 進入專案資料夾
+	```
+    cd Movie_List2
+    ```
+3. 安裝所需套件
 	```
     npm i
     ```
