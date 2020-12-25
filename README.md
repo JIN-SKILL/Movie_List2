@@ -1,6 +1,8 @@
 # 我的電影清單
 使用 Express.js 建置的電影清單網站，能瀏覽電影的簡介和搜尋相關電影。
 
+![Movie_List2](https://raw.githubusercontent.com/JIN-SKILL/Example_Image/main/Movie_List2.png)
+
 ## 網站功能
 + 列出電影資訊
 + 透過電影名稱進行搜尋
